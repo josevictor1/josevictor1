@@ -8,7 +8,7 @@
 <a href="mailto:josevictorpatos@gmail.com">
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail-plain.svg" />
 </a>
-<br/>
+<hr/>
 
 ## About Me 🚀
 👨🏼‍💻 I’m a **iOS Enginner** with a bachelor's degree in Computer Science. </br> </br>
