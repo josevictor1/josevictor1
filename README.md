@@ -34,7 +34,6 @@
   <img align="center" alt="pyt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="ctg" height="30" width="40" src="https://github.com/Carthage/Carthage/blob/master/Logo/SVG/colored.svg">
-  <img align="center" alt="pod" height="30" width="40" src="https://raw.githubusercontent.com/CocoaPods/Design/master/assets/logo.png">
+  <img align="center" alt="ctg" height="40" width="40" src="https://github.com/Carthage/Carthage/blob/master/Logo/SVG/colored.svg">
+  <img align="center" alt="pod" height="40" width="40" src="https://raw.githubusercontent.com/CocoaPods/Design/master/assets/logo.png">
 </div>
