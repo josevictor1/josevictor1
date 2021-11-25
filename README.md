@@ -1,15 +1,19 @@
 ### Hello there 👋! My name is José Victor, welcome to my GitHub profile 🤓!
 
-## Contact:
+### Contact 👤:
 <a href="https://www.linkedin.com/in/jose-victor-pereira-costa/">
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  />
+  <img align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  />
 </a>
 <a href="mailto:josevictorpatos@gmail.com">
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail-plain.svg" />
+  <img align="center" height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />
 </a>
 
-## About Me 🚀
+<br/>
+<hr />
+
+### About Me 🚀
 👨🏼‍💻 I’m a **iOS Enginner** with a bachelor's degree in Computer Science. </br> </br>
+🌱 What I'm studying currently? I'm currently improving my knowledge on alrgorithms and data structures. </br> </br>
 💬 Feel free to contact me if you need any help or want to discuss any Software Development or Computer Science topic. After all we all learn together </br></br>
    
  <b><i> Learning is a continuous process and here you can see what technologies or concepts I'm learning currently. </b></i>
@@ -23,7 +27,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevictor1&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 
-## 🛠 Technologies I've being using:
+### 🛠 Technologies I've being using:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="sw" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
