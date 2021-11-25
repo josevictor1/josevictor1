@@ -1,7 +1,6 @@
 ### Hello there 👋! My name is José Victor, welcome to my GitHub profile 🤓!
 
-### Contact:
-
+## Contact:
 <hr />
 <a href="https://www.linkedin.com/in/jose-victor-pereira-costa/">
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  />
@@ -11,9 +10,7 @@
 </a>
 <br/>
 
-
-
-### About Me 🚀
+## About Me 🚀
 👨🏼‍💻 I’m a **iOS Enginner** with a bachelor's degree in Computer Science. </br> </br>
 💬 Feel free to contact me if you need any help or want to discuss any Software Development or Computer Science topic. After all we all learn together </br></br>
    
