@@ -14,7 +14,7 @@
 ### About Me 🚀
 👨🏼‍💻 I’m a **iOS Enginner** with a bachelor's degree in Computer Science. </br> </br>
 🌱 What I'm studying currently? I'm currently improving my knowledge on alrgorithms and data structures. </br> </br>
-💬 Feel free to contact me if you need any help or want to discuss any Software Development or Computer Science topic. After all we all learn together </br></br>
+💬 Feel free to contact me if you need any help or want to discuss any Software Development or Computer Science topic. After all we all learn together. </br></br>
    
  <b><i> Learning is a continuous process and here you can see what technologies or concepts I'm learning currently. </b></i>
   
