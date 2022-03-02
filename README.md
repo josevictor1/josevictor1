@@ -1,4 +1,4 @@
-### Hello there 👋! My name is José Victor, welcome to my GitHub profile 🤓!
+### Hello there 👋! My name is José Victor, welcome to my GitHub profile!
 
 ### Contact 👤:
 <a href="https://www.linkedin.com/in/jose-victor-pereira-costa/">
